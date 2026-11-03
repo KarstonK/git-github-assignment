@@ -1,3 +1,5 @@
 Git is a version managing solution for files.
 Github is a cloud-hosted website for containing and publicly hosting Git repositories.
 Git supports creating "branches", which are based off of the main branch/code, and can later be merged back into the main branch. Often used to test and compleate changes before making them the default in the main branch.
+
+-Kevins Comments... Karston can be pushy and controlling. Figure it just needs to be said. A pull request allows me to branch merged with main branch. 
