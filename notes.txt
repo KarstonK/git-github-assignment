@@ -1,0 +1,2 @@
+Git is a version managing solution for files.
+Github is a cloud-hosted website for containing and publicly hosting Git repositories.
